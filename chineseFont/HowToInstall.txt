@@ -1,0 +1,7 @@
+On Linux systems 
+----------------
+All non-free fonts are required to be copied into the folder: 
+
+/home/USER/.fonts 
+
+where 'USER/' designates your user name. 
